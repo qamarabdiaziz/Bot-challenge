@@ -1,12 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500&display=swap');
+
+*{
+  background-color: hsl(0, 0%, 90%);;
+  font-family: Montserrat;
+}
   .bot-army {
   overflow-x: scroll;
   min-height: 300px;
   max-width: 100%;
+  font-family: Montserrat;
 }
+
 .ui.grid > .row.bot-army-row {
   flex-wrap: nowrap;
   min-height: 100%;
+  font-family: Montserrat;
+
 }
+
 .ui.grid {
   padding: 0px 20px;
 }
+
